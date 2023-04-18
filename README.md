@@ -9,11 +9,15 @@ To compile the notepad--.c program for use, you will need to download a compiler
 
 ## How to Compile
 To compile Notepad--, place the notepad--.c file in a directory of your choosing and open a command line/terminal window. Running the following command should allow compile and build the executable file for the program:
-```gcc notepad--.c -o Notepad--```
+```
+gcc notepad--.c -o Notepad--
+```
 
 ## How to Use Notepad--
 The ease of running Notepad-- may depend on the operating system one is trying to open the executable in, but most will just be able to double click the executable created from compiling the program. Otherwise, open a terminal window in the same directory as the file and type the following command:
-```./Notepad--.exe```
+```
+./Notepad--.exe
+```
 The program should now be opened.
 
 Upon running the program successfully, the user will be greeted with an ASCII title screen and instructions following the title. Typing ```START``` (case sensitive) will allow the user to start creating/writing their file in the program.
