@@ -1,4 +1,4 @@
-# Notepad--C
+# Notepad-- C
 A rudimentary "text editor" created entirely as a joke. Programmed in C.
 
 
