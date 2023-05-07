@@ -5,7 +5,10 @@ A rudimentary "text editor" created entirely as a joke. Programmed in C.
 This project was created to act as a rudimentary text editor in any command line/terminal capable of running C executables. The program should be able to be compiled with [GCC](https://gcc.gnu.org) without any other dependencies. **This has only been tested in GCC.**
 
 ## Requirements
-To compile the notepad--.c program for use, you will need to download a compiler that supports the C programming language. I recommend GCC, which you can find [here](https://gcc.gnu.org).
+To compile the notepad--.c program for use, you will need to download a compiler that supports the C programming language. 
+
+For Linux users, I recommend GCC, which you can find [here](https://gcc.gnu.org).
+For Windows users, I recommend MinGW, a lightweight version of GCC built for windows. You can find that [here](https://sourceforge.net/projects/mingw/).
 
 ## How to Compile
 To compile Notepad--, place the notepad--.c file in a directory of your choosing and open a command line/terminal window. Running the following command should allow compile and build the executable file for the program:
@@ -28,4 +31,5 @@ Once this sentence has been typed, the user will be prompted to enter the name o
 
 
 ## Credits
-[GNU Compiler Collection](https://gcc.gnu.org) provided the software to compile the notepad--.c file for use.
+[GNU Compiler Collection](https://gcc.gnu.org) provided the software to compile the notepad--.c file for use on Linux.
+[MinGW](https://sourceforge.net/projects/mingw/) provided the software to compile the notepad--.c file for use on Windows
