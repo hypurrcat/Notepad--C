@@ -32,4 +32,5 @@ Once this sentence has been typed, the user will be prompted to enter the name o
 
 ## Credits
 [GNU Compiler Collection](https://gcc.gnu.org) provided the software to compile the notepad--.c file for use on Linux.
+
 [MinGW](https://sourceforge.net/projects/mingw/) provided the software to compile the notepad--.c file for use on Windows
