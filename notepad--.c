@@ -1,13 +1,3 @@
-/*
-NOTEPAD--
-A Free Open Source "TEXT EDITOR"
-                    [NOW PORTED TO C!]
-
-Dom G. 2023
-*/
-
-// Last Updated: 4/17/2023
-
 // Libraries
 #include <stdio.h>
 #include <string.h>
